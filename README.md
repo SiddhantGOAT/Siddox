@@ -71,26 +71,6 @@ This portfolio website was built using modern web technologies.
 "🌐 siddox.netlify.app" (https://siddox.netlify.app)
 
 ---
-
-📌 Getting Started
-
-If you want to run this project locally:
-
-1. Clone the repository
-
-git clone https://github.com/SiddhantGOAT/Siddox.git
-
-2. Open the project
-
-Open the project folder in your preferred code editor.
-
-3. Run the website
-
-✨ Run the command in your terminal :
-  npm run dev
-
----
-
 📱 Responsive Design
 
 The website is designed to provide a smooth experience across different devices, including:
