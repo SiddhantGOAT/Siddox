@@ -1,4 +1,25 @@
-🌍 Visit siddox.netlify.app</a>
+🌐 Siddox — Personal Portfolio
+
+Welcome to the official repository of my personal portfolio website! 🚀
+
+This website represents my journey, skills, projects, and work in web development and technology.
+
+🔗 Live Website
+
+<p align="center">
+  <a href="https://siddox.netlify.app">
+    <img src="assets/IMG_20260828_081612.jpg" alt="Siddox Portfolio - Light Theme" width="45%">
+  </a>
+  &nbsp;
+  <a href="https://siddox.netlify.app">
+    <img src="assets/IMG_20260828_081637.jpg" alt="Siddox Portfolio - Dark Theme" width="45%">
+  </a>
+</p><p align="center">
+  ☀️ <b>Light Theme</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🌙 <b>Dark Theme</b>
+</p><p align="center">
+  <b>👆 Click either preview to visit the live website!</b>
+</p><p align="center">
+  <a href="https://siddox.netlify.app">🌍 Visit siddox.netlify.app</a>
 </p>---
 
 ✨ About
@@ -26,22 +47,7 @@ The website brings together my work, skills, interests, and digital presence in 
 
 This portfolio website was built using modern web technologies.
 
-- HTML
-- CSS
-- JavaScript
-
----
-
-📂 Project Structure
-
-Siddox/
-│
-├── assets/
-│   ├── portfolio-light.png
-│   ├── portfolio-dark.png
-│ 
-│
-├── README.md
+- React ⚛️
 
 ---
 
@@ -72,7 +78,7 @@ If you want to run this project locally:
 
 1. Clone the repository
 
-git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY.git
+git clone https://github.com/SiddhantGOAT/Siddox.git
 
 2. Open the project
 
@@ -80,7 +86,8 @@ Open the project folder in your preferred code editor.
 
 3. Run the website
 
-✨Run the command in your terminal - npm run dev
+✨ Run the command in your terminal :
+  npm run dev
 
 ---
 
